@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="207px" viewBox="0 0 168 207" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pczy2@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.4%" y="-2.5%" width="108.8%" height="107.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.240743886 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc端" transform="translate(-876.000000, -11317.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="pczy2" filter="url(#filter-1)" transform="translate(880.000000, 11319.000000)">
+                <path d="M90.59,114.37 C92.19,113.01 93.07,110.85 93.07,107.9 C93.07,105.18 92.19,103.18 90.59,101.98 C88.84,100.7 86.12,100.06 82.28,100.06 L67.81,100.06 L67.81,116.37 L82.12,116.37 C86.12,116.37 88.92,115.65 90.59,114.37 Z" id="Shape"></path>
+                <path d="M92.67,126.21 C90.75,124.77 87.67,124.05 83.56,124.05 L67.81,124.05 L67.81,141.8 L83.32,141.8 C86.1868507,141.943006 89.0438419,141.365419 91.63,140.12 C94.1495048,138.779229 95.6514344,136.088272 95.47,133.24 C95.47,130 94.51,127.64 92.67,126.21 Z" id="Shape"></path>
+                <path d="M23.25,52.25 C42.5,35.75 73.75,32.25 73.75,32.25 L59.5,3.75 C59.5,1.25 57,0 54.25,0 L6.5,0 C2.75,0 0,2.5 0,5 C0,6.25 0,7.5 1.25,7.5 L23.25,52.25 Z" id="Shape"></path>
+                <path d="M155,0.25 L106,0.25 C103.5,0.25 100.75,1.5 100.75,4 L85.25,32 C85.25,32 117.5,33.25 136.75,52.5 L158.75,8 C159.463561,7.35148747 159.909326,6.45995594 160,5.5 C159.921295,2.72879684 157.764071,0.463711841 155,0.25 Z" id="Shape"></path>
+                <path d="M80,43.5 C36.25,43.5 1.25,78 1.25,121.25 C1.25,164.5 36.25,199 80,199 C123.75,199 158.75,164.5 158.75,121.25 C158.75,78 124,43.5 80,43.5 Z M98.91,146.11 C95.55,148.35 90.75,149.47 84.68,149.47 L58.45,149.47 L58.45,92.38 L84.6,92.38 C90.27,92.38 94.75,93.74 97.95,96.46 C100.931606,99.0422259 102.579598,102.838492 102.43,106.78 C102.815533,112.610962 99.138123,117.940722 93.55,119.65 C96.8290946,120.112901 99.8357421,121.729683 102.03,124.21 C103.87,126.45 104.83,129.56 104.83,133.4 C104.83,139.16 102.83,143.4 98.91,146.11 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

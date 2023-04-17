@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="207px" viewBox="0 0 168 207" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pczy1@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.4%" y="-2.5%" width="108.8%" height="107.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.238252944 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pc端" transform="translate(-310.000000, -11317.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="pczy1" filter="url(#filter-1)" transform="translate(314.000000, 11319.000000)">
+                <path d="M155,0.25 L106,0.25 C103.5,0.25 100.75,1.5 100.75,4 L85.25,32 C85.25,32 117.5,33.25 136.75,52.5 L158.75,8 C159.463561,7.35148747 159.909326,6.45995594 160,5.5 C159.921295,2.72879684 157.764071,0.463711841 155,0.25 Z" id="Shape"></path>
+                <polygon id="Shape" points="77.27 101.64 68.34 126.38 86.44 126.38 77.59 101.64"></polygon>
+                <path d="M23.25,52.25 C42.5,35.75 73.75,32.25 73.75,32.25 L59.5,3.75 C59.5,1.25 57,0 54.25,0 L6.5,0 C2.75,0 0,2.5 0,5 C0,6.25 0,7.5 1.25,7.5 L23.25,52.25 Z" id="Shape"></path>
+                <path d="M80,43.5 C36.25,43.5 1.25,78 1.25,121.25 C1.25,164.5 36.25,199 80,199 C123.75,199 158.75,164.5 158.75,121.25 C158.75,78 124,43.5 80,43.5 Z M94.35,148.11 L89.21,134 L65.58,134 L60.44,148.15 L50.56,148.15 L72.14,91.68 L82.65,91.68 L104.23,148.11 L94.35,148.11 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

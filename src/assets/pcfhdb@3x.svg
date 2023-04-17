@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="99px" viewBox="0 0 99 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pcfhdb@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.536798007">
+        <g id="pc端" transform="translate(-1740.000000, -9770.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="pcfhdb" transform="translate(1740.000000, 9770.000000)">
+                <path d="M91.0030675,0 L7.99693247,0 C3.58034862,-2.70437764e-16 5.40875529e-16,3.58034862 0,7.99693247 L0,91.0030675 C5.40875529e-16,95.4196514 3.58034862,99 7.99693247,99 L91.0030675,99 C95.4196514,99 99,95.4196514 99,91.0030675 L99,7.99693247 C99,3.58034862 95.4196514,2.70437764e-16 91.0030675,0 Z M63.0583435,55.6657362 L63.0583435,79.6565338 L35.9416565,79.6565338 L35.9416565,55.6657362 L17.6195705,55.6657362 L49.5060736,25.1498466 L81.3925767,55.6657362 L63.0583435,55.6657362 Z M81.3804295,23.2133742 L17.6074233,23.2133742 L17.6074233,19.3404294 L81.3804295,19.3404294 L81.3804295,23.2133742 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
